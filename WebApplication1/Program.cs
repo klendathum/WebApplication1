@@ -19,7 +19,7 @@ namespace WebApplication1
                 .UseApplicationInsights()
                 .Build();
 
-            host.Run();
+            host.Run();    
         }
     }
 }
